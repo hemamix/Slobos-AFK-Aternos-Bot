@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "hemamix.aternos.me:64473",
+    "port": 64473,
     "version": "",
     "try-creative": false
   },
